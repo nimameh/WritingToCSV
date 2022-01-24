@@ -6,7 +6,11 @@ using CsvHelper;
 
 namespace WritingToCSV
 {
-    //https://code-maze.com/csharp-writing-csv-file/
+    /// <summary>
+    /// read from object class and write into csv file 
+    /// https://code-maze.com/csharp-writing-csv-file/
+    /// </summary>
+    
     class Program
     {
         static void Main(string[] args)
